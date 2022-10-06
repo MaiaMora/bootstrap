@@ -1,0 +1,68 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.navbar-brand span{
+    color: white;
+}
+.img_conf{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.centrado{
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+}
+.centrado p{
+    color: white;
+}
+.btn-success{
+    background-color: #28A744;
+}
+
+.titulo_cards{
+    text-align: center;
+}
+
+.mb-3 {
+    background-color:#343A40;
+    margin-top: 10px;
+}
+
+.col-md-8 .card-title{
+    color: white;
+}
+
+.col-md-8 .card-text{
+    color: white;
+}
+
+.p_formulario{
+text-align: center;
+}
+
+.d-grid .btn{
+    background-color: #28A744;
+    border-color: #28A744;
+    margin: 10px;
+}
+
+footer{
+    background-color: #343A40;
+    height: 100px;
+}
+
+footer a{
+    color: white;
+    text-decoration: none;
+}
+
+.card-group{
+    margin-left: 20px;
+}
+
